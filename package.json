@@ -26,6 +26,6 @@
 
   "dependencies": {
     "spin.js": "^2.3.2",
-    "react": "^0.13.3",
+    "react": "^0.13.3"
   }
 }
